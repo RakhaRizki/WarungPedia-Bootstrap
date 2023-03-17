@@ -1,0 +1,45 @@
+*{
+	font-family: 'Poppins', sans-serif;
+}
+
+body {
+	background: f1fbff;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+@media screen and (max-width: 994px) {
+	.navbar-nav {
+		text-align: center;
+	}
+}
+
+.form-control {
+	font-size: 14px;
+}
+
+/* Kategori */
+
+.img-kategori {
+	width: 45px;
+}
+
+.row-container {
+	background-color:#42b549;
+	margin:0	px ;
+}
+
+.img-kategori:hover {
+	transform: scale(1.2);
+}
+
+.card:hover {
+	border: 1px solid #2d2d2d;
+}
+
+
+
+
+
